@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+/* Optional: Global background reset using your new custom colors */
+body {
+  background-color: #f8fafc; /* slate-50 */
+  color: var(--color-makao-dark);
+  -webkit-font-smoothing: antialiased;
+}
