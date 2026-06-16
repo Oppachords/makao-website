@@ -19,7 +19,7 @@ export default function Navbar() {
           {/* Logo Brand Section */}
           <a href="#" className="flex items-center gap-3 group shrink-0">
             <img 
-              src="/logo.png" 
+              src="/log.svg" 
               alt="Makao Children's Ministries Uganda Logo" 
               className="h-14 w-auto object-contain group-hover:scale-105 transition-transform duration-200"
             />
